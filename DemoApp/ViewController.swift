@@ -64,7 +64,7 @@ class ViewController: UIViewController ,UITextFieldDelegate
         let padding = CGFloat(11)
         var label = UILabel(frame: CGRectMake(10, 0, 7, 26))
         email.leftView = label;
-        println("testing");
+        println("testing done");
         //email.leftViewMode = UITextFieldViewMode
         //email?.frame = CGRectMake(padding, self.topLayoutGuide.length + 50, view.frame.size.width - padding * 2, 41)
         //paddingView.frame=CGRectMake(15, 0, 296, 41)
